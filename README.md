@@ -25,6 +25,7 @@ pip install pygame
 ```
 
 ### ゲームの実行
+[こちら](https://kazuhito00.github.io/pygame-hexagonal2048/build/web/)でプレイできます。
 1. このリポジトリをクローンします：
    ```bash
    git clone https://github.com/your-username/pygame-hexagonal2048.git
@@ -65,6 +66,7 @@ pip install pygame
 ```
 
 ### Running the Game
+You can play it [here](https://kazuhito00.github.io/pygame-hexagonal2048/build/web/).
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/pygame-hexagonal2048.git
