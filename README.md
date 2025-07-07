@@ -36,6 +36,17 @@ pip install pygame
    python main.py
    ```
 
+### 操作方法
+- **移動**: 
+  - W: 左上移動
+  - E: 右上移動
+  - A: 左移動
+  - D: 右移動
+  - Z: 左下移動
+  - X: 右下移動
+- **新しいゲーム**: 'R'キーを押して新しいゲームを開始します。
+- **終了**: 'ESC'キーを押してゲームを終了します。
+
 ## ライセンス
 pygame-hexagonal2048 is under [Apache 2.0 License](LICENSE).
 
@@ -76,6 +87,17 @@ You can play it [here](https://kazuhito00.github.io/pygame-hexagonal2048/build/w
    ```bash
    python main.py
    ```
+
+### How to Play
+- **Movement**: 
+  - W: Move Up-Left
+  - E: Move Up-Right
+  - A: Move Left
+  - D: Move Right
+  - Z: Move Down-Left
+  - X: Move Down-Right
+- **New Game**: Press the 'R' key to start a new game.
+- **Quit**: Press the 'ESC' key to exit the game.
 
 ## License
 pygame-hexagonal2048 is under [Apache 2.0 License](LICENSE).
